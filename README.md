@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noel Bañares</h1>
 <h3 align="center">A passionate Professional IT Specialist / Network Technician from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enochjhin&label=Profile%20views&color=0e75b6&style=flat" alt="enochjhin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enochjhin" alt="enochjhin" /></a> </p>
-
 - 🔭 I’m currently working on Phosclay Chemical Manufacturing Company **IT Specialist Intern**
 
 - 🌱 I’m currently learning **Google IT Support Professional and Google Data Analytics**
